@@ -12,11 +12,13 @@ Steve recently received his finance degree and wants to analyze green energy sto
 ### Stock performance analysis
 
 _All Stocks 2017 Results_
+
 ![All_Stocks_2017_results](https://user-images.githubusercontent.com/114685724/199139171-4d42f84d-999e-42e8-8c97-4cc8a579f5a1.jpg)
 
 After analyzing 2017, I found that the majority of green energy stocks were up! Almost every green energy stock, with the exception of TERP, ended the year 2017 at a higher stock price than it started. DQ and SEDG were the two highest performers, garnering returns over 180%!
 
 _All Stocks 2018 Results_
+
 ![All_Stocks_2018_Results](https://user-images.githubusercontent.com/114685724/199139175-8787dfeb-ce23-4fdb-ab2e-d4e45b7957ed.jpg)
 
 2018 was a different story for green energy stocks: almost all stocks were down. Most stocks closed the year worse off than where they started except for ENPH and RUN which were both up over 80%. Those two stocks had posted gains in 2017 as well, albeit RUN's return in 2017 was minimal (5.5%) compared to ENPH's return (129.5%).
